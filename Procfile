@@ -1,1 +1,1 @@
-web: herokuAddr=cjgame.herokuapp.com npm run start
+web: herokuAddr=ltgame.herokuapp.com npm run start
